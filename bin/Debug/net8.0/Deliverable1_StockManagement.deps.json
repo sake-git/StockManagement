@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Deliverable1_StockManagement/1.0.0": {
+        "runtime": {
+          "Deliverable1_StockManagement.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Deliverable1_StockManagement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

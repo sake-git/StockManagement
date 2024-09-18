@@ -1,0 +1,14 @@
+D:\C#\Deliverable1_StockManagement\bin\Debug\net8.0\Deliverable1_StockManagement.exe
+D:\C#\Deliverable1_StockManagement\bin\Debug\net8.0\Deliverable1_StockManagement.deps.json
+D:\C#\Deliverable1_StockManagement\bin\Debug\net8.0\Deliverable1_StockManagement.runtimeconfig.json
+D:\C#\Deliverable1_StockManagement\bin\Debug\net8.0\Deliverable1_StockManagement.dll
+D:\C#\Deliverable1_StockManagement\bin\Debug\net8.0\Deliverable1_StockManagement.pdb
+D:\C#\Deliverable1_StockManagement\obj\Debug\net8.0\Deliverable1_StockManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Deliverable1_StockManagement\obj\Debug\net8.0\Deliverable1_StockManagement.AssemblyInfoInputs.cache
+D:\C#\Deliverable1_StockManagement\obj\Debug\net8.0\Deliverable1_StockManagement.AssemblyInfo.cs
+D:\C#\Deliverable1_StockManagement\obj\Debug\net8.0\Deliverable1_StockManagement.csproj.CoreCompileInputs.cache
+D:\C#\Deliverable1_StockManagement\obj\Debug\net8.0\Deliverable1_StockManagement.dll
+D:\C#\Deliverable1_StockManagement\obj\Debug\net8.0\refint\Deliverable1_StockManagement.dll
+D:\C#\Deliverable1_StockManagement\obj\Debug\net8.0\Deliverable1_StockManagement.pdb
+D:\C#\Deliverable1_StockManagement\obj\Debug\net8.0\Deliverable1_StockManagement.genruntimeconfig.cache
+D:\C#\Deliverable1_StockManagement\obj\Debug\net8.0\ref\Deliverable1_StockManagement.dll
